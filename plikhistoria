@@ -1,0 +1,4 @@
+    1  git clone https://github.com/WachowiakS/wsb_php.git
+    2  cd wsb_php
+    3  clear
+    4  history > plikhistoria
